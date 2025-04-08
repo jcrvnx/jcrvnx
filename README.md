@@ -4,14 +4,12 @@
 
 ### <div align="center">I'm **Jcrist Vincent Orhen** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />‍</br>  
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=555555&center=true&multiline=true&width=600&height=80&lines=A+full-stack+developer+and+definitely+a+hacker!+%F0%9F%98%84;Turning+blunts+into+code+and+imaginations+into+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=555555&center=true&multiline=true&width=600&height=80&lines=A+full-stack+developer+and+definitely+a+hacker!+%F0%9F%98%84;Turning+blunts+into+code+and+imaginations+into+reality." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> My playground includes <b>Python, JavaScript, DevOps</b>, and more tech wizardry</br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Building with <b>Odoo, ERPNext, Django, Flask</b>, deploying with <b>AWS, Docker, Nginx</b></br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Turning complex problems into elegant solutions</br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="25" height="25" /> Let's innovate and build the future together!</div>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> My playground includes <b>Web App Development, Mobile App Development, DevOps, Ethical Hacking</b>, and more technologies.</br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Building with <b>Odoo, ERPNext, Django, Flask</b>, deploying with <b>Vercel, Docker, Netlify.</b></br>
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/hardikzinzu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@hardikzinzu) 
