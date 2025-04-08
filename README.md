@@ -1,8 +1,4 @@
 <div align="center">
-<img src="header.jpg" align="center" />
-</div>  
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%8C%8D;I'm+Jcrist+Vincent+Orhen;Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
