@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm **Jcrist Vincent Orhen** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />‍</br>  
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=555555&center=true&multiline=true&width=600&height=80&lines=A+creative+full-stack+developer+and+definitely+not+a+hacker!+%F0%9F%98%84;Turning+coffee+into+code+and+dreams+into+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=555555&center=true&multiline=true&width=600&height=80&lines="A+creative+full-stack+developer+and+definitely+not+a+hacker!+%F0%9F%98%84;Turning+coffee+into+code+and+dreams+into+reality" alt="Typing SVG" />
 </div>
 
 <div align="center">
