@@ -1,17 +1,22 @@
 <div align="center">
-<img src="header.png" align="center" />
+<img src="header.png" align="center" style="width: 100%; height:200px" />
 </div>  
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%8C%8D;I'm+Jcrist+Vincent+Orhen;Welcome+to+my+Profile!" alt="Typing SVG" />
+</div>
 
-### <div align="center">Hello, World! 🌍 I'm **Hardik Zinzuvadiya** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />‍</br>  
-A creative **full-stack developer** and definitely not a hacker! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> </br>  
-🚀 My playground includes **Python, JavaScript, DevOps**, and more tech wizardry, crafting cutting-edge solutions 💡</br>  
-💻 I tinker with frameworks and platforms like **Odoo, ERPNext, Django, Flask**, and deploy magic with **AWS, Docker, and Nginx.** </br>  
-🔧 I thrive on **solving problems others find impossible.** Give me a challenge, and I’ll turn it into a success story! </br>  
-🌟 Innovation, creativity, and resilience are the heart of my work—let’s shape the tech world together!</div>
+### <div align="center">I'm **Jcrist Vincent Orhen** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />‍</br>  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=555555&center=true&multiline=true&width=600&height=80&lines=A+creative+full-stack+developer+and+definitely+not+a+hacker!+%F0%9F%98%84;Turning+coffee+into+code+and+dreams+into+reality" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> My playground includes <b>Python, JavaScript, DevOps</b>, and more tech wizardry</br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Building with <b>Odoo, ERPNext, Django, Flask</b>, deploying with <b>AWS, Docker, Nginx</b></br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Turning complex problems into elegant solutions</br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="25" height="25" /> Let's innovate and build the future together!</div>
   
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/hardikzinzu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@hardikzinzu) 
 
