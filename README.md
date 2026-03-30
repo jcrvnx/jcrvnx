@@ -22,6 +22,8 @@
 <code><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title="Assembly / NASM"></code>
+<img src="https://img.shields.io/badge/Assembly-NASM-6E4C13?style=flat&logo=assemblyscript&logoColor=white" height="28"/>
 
 ### Web Development
 <code><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
